@@ -1,0 +1,140 @@
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.Cache
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+E:\OOAD Lab\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+C:\Users\Abu\Desktop\OOAD PROJECT\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.Cache
+D:\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+D:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+D:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+D:\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+D:\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+D:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+D:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+D:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InvesterSignIn.resources
+D:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+D:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+D:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.Cache
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InvesterSignIn.resources
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_reset.resources
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.cache
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.CoreCompileInputs.cache
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+C:\Users\Usama Baig\Desktop\OOAD PROJECT\new\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Innovator_register.resources
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InvesterSignIn.resources
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_reset.resources
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.Cache
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InnovatorSignIn.resources
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Innovator_register.resources
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InvesterSignIn.resources
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_reset.resources
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.Cache
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Downloads\Project\Usman\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.innovator_reset.resources
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InnovatorSignIn.resources
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Innovator_register.resources
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.innovator_reset.resources
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InvesterSignIn.resources
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_reset.resources
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+C:\Users\Abu\Downloads\Project\Usama\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.Cache
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InnovatorSignIn.resources
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Innovator_register.resources
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.innovator_reset.resources
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InvesterSignIn.resources
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_reset.resources
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.cache
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.CoreCompileInputs.cache
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+C:\Users\Usama Baig\Desktop\sprint 2\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InnovatorSignIn.resources
+C:\Users\Abu\Downloads\Project\Project\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.innovator_reset.resources
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InnovatorSignIn.resources
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Innovator_register.resources
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.innovator_reset.resources
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InvesterSignIn.resources
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_reset.resources
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.cache
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.CoreCompileInputs.cache
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+C:\Users\Usama Baig\Desktop\sprint 3\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.pdb
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csprojResolveAssemblyReference.cache
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Form1.resources
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InnovatorSignIn.resources
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Innovator_register.resources
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.innovator_reset.resources
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.InvesterSignIn.resources
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_register.resources
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.invester_reset.resources
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Properties.Resources.resources
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.csproj.GenerateResource.Cache
+D:\EGDownloads\Project-master(1)\Project-master\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.Admin.resources
+E:\investandbusinessplace\investandbusinessplace\bin\Debug\investandbusinessplace.exe.config
+E:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.exe
+E:\investandbusinessplace\investandbusinessplace\obj\Debug\investandbusinessplace.pdb
